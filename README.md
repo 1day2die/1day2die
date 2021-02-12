@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm 1Day2Die</h1>
 <h3 align="center">A free-time Programmer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1day2die&label=Profile%20views&color=0e75b6&style=flat" alt="1day2die" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1day2die&label=Profile%20views&color=0e75b6&style=plastic" alt="1day2die" /> </p>
 
-- 🔭 I’m currently working on **TabuMabu**
+- 🔭 I’m currently working on **TabuMabu and Igor**
 
-- 👨‍💻 All of my projects are available at [www.hafuga.de](www.hafuga.de)
+- 🌱 I’m currently learning **Java and Mobile Developement**
+
+- 👨‍💻 All of my projects are available at [https://hafuga.de or Here](https://hafuga.de or Here)
 
 - 📫 How to reach me **dleipe@hafuga.de**
 
