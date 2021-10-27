@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm 1Day2Die</h1>
 <h3 align="center">A free-time Programmer from Germany</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1day2die&label=Profile%20views&color=0e75b6&style=plastic" alt="1day2die" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1day2die&label=Profile%20views&color=0e75b6&style=plastic" alt="1day2die" /> 
 <img src="https://img.shields.io/badge/Currently%20Coding-php-blue" />
-
+</p>
 
 - 🔭 I’m currently working on [Controlpanel.gg](https://github.com/ControlPanel-gg/dashboard)
 
