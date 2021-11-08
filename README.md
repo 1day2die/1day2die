@@ -25,3 +25,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1day2die&show_icons=true&locale=en" alt="1day2die" /></p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
