@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1day2die&label=Profile%20views&color=blueviolet&style=flat" alt="1day2die" /> 
 <img src="https://img.shields.io/badge/Currently%20Coding-php-blue" />
 <img src="https://img.shields.io/badge/Fav%20Project-TabuMabu-brightgreen" />
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q0BGTM9)
 </p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q0BGTM9)
 
 - 🔭 I’m currently working on [Controlpanel.gg](https://github.com/ControlPanel-gg/dashboard)
 
