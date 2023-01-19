@@ -6,17 +6,18 @@
   <a href='https://ko-fi.com/1day2die' target='_blank'><img height='35' style='border:0px;height:20px;' src='https://ko-fi.com/img/githubbutton_sm.svg' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 </p>
-[hafuga.de](hafuga.de)
+  
+[hafuga.de](https://hafuga.de)
 
 - 🔭 I’m currently working on [Controlpanel.gg](https://github.com/ControlPanel-gg/dashboard)
 
 - 🌱 I’m currently learning **Laravel**
 
-- 🤝 I’m looking for help with [TabuMabu](tabumabu.de)
+- 🤝 I’m looking for help with [TabuMabu](https://tabumabu.de)
 
-- 👨‍💻 All of my projects are available at [hafuga.de](hafuga.de)
+- 👨‍💻 All of my projects are available at [hafuga.de](https://hafuga.de)
 
-- 📫 How to reach me **info@hafuga.de**
+- 📫 How to reach me **[info@hafuga.de](mailto:info@hafuga.de)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
