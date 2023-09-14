@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 1Day2Die</h1>
 <h3 align="center">A free-time Programmer from Germany</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1day2die&label=Profile%20views&color=blueviolet&style=flat" alt="1day2die" /> 
-<img src="https://img.shields.io/badge/Currently%20Coding-php-blue" />
+<img src="https://img.shields.io/badge/Currently%20Coding-JavaScript-orange" />
 <img src="https://img.shields.io/badge/Fav%20Project-TabuMabu-brightgreen" />
   <a href='https://ko-fi.com/1day2die' target='_blank'><img height='35' style='border:0px;height:20px;' src='https://ko-fi.com/img/githubbutton_sm.svg' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
