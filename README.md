@@ -11,14 +11,16 @@
 
 - 🔭 I’m currently working on [Controlpanel.gg](https://github.com/ControlPanel-gg/dashboard)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **NodeJS / JS**
 
-- 🤝 I’m looking for help with [TabuMabu](https://tabumabu.de)
+- 🤝 I’m looking for help with [Ctrlpanel.gg](https://ctrlpanel.gg)
 
 - 👨‍💻 All of my projects are available at [hafuga.de](https://hafuga.de)
 
 - 📫 How to reach me **[info@hafuga.de](mailto:info@hafuga.de)**
 
+- 📫 Discord **@1day2die**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/VunnxYK4Ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VunnxYK4Ns" height="10" width="20" /></a>
